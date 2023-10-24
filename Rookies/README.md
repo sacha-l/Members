@@ -135,7 +135,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `cyndiekamaa@gmail.com`
   - Twitter: [CyndieKamau](https://twitter.com/CyndieKamau)
 
+### DuongHB
 
+<img src="./images/duonghb53.jpg" width="100"/>
+
+- Name: DuongHB
+- Position: Software Engineering at Aura Network
+- Github Profile: [duonghb53](https://github.com/duonghb53)
+- Social Media Links:
+  - Discord: `duonghb53`
+  - X: [duonghb53](https://twitter.com/duonghb53)
+  - E-mail: `duonghb53@gmail.com`
+  - Linkedin: [Duong Ha](https://www.linkedin.com/in/duong-ha-a72413bb/)
 
 ### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
